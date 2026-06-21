@@ -6,8 +6,8 @@ const TRAINERS = [
     name: 'Rohan Sharma',
     role: 'Strength & Conditioning Coach',
     exp: '8+ Years Experience',
-    img: '/image/image1.jpg',
-    // img: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop',
+     
+    img: 'https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?q=80&w=800&auto=format&fit=crop',
   },
   {
     name: 'Aisha Khan',

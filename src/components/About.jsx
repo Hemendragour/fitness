@@ -23,7 +23,7 @@ export default function About() {
         >
           <div className="relative rounded-3xl overflow-hidden shadow-card aspect-[4/5]">
             <img
-              src="/public/image/image2.jpg "
+              src="https://images.unsplash.com/photo-1571388208497-71bedc66e932?q=80&w=1200&auto=format&fit=crop"
               alt="Member training with free weights at The Max Fitness"
               className="w-full h-full object-cover"
             />
